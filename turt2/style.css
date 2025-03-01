@@ -1,0 +1,14 @@
+h1{
+    color:blueviolet
+}
+p {
+    color:darkgreen
+}
+body{
+    background-color: rgb(3, 0, 100);
+}
+.mycontainer{
+    height:70vh;
+    background-color: aqua;
+    text-align: center;
+}
